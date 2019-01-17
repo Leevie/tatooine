@@ -1,0 +1,31 @@
+
+
+    .header1 {
+        padding: 40px;
+    }
+
+    .header2 {
+        padding: 20px;
+    }
+
+    .picHolder {
+        text-align: center;
+    }
+
+    .paraHolder {
+        text-align: center;
+        background-color: cadetblue;
+        text-shadow: 5px;
+
+    }
+
+    .contactHolder {
+        text-align: center;
+        font-size: larger;
+    }
+
+    .contactList {
+        font-size: larger;
+    }
+
+
